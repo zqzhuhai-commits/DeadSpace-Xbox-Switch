@@ -1,0 +1,7 @@
+*.nro
+*.nsp
+*.viv
+*.keys
+*.o
+__pycache__/
+dist/
